@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Daniel, and I am a passionate about Software Development and Reverse Engineering. Currently, I'm focused on learning and mastering C++ and Python, with partiuclar interest in low-level systems and security. Occasionally I participate in Capture The Flag (CTF) competitions, where I focus on reverse engineering. 
+
 <!--
 **dv0lk/dv0lk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
