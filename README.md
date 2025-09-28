@@ -1,6 +1,7 @@
 ## Hi there 👋
+My name is Daniel and I am a junior at the University of Illinois Chicago who's passionate about software engineering and its inner workings. I'm the most passionate about low-level systems and security, and I'm currently focused on learning and mastering modern C++ and Python. Ever since I was a kid, I always liked to take things apart and see how they work, which led me to learning reverse engineering. Occasionally I like to participate in Capture The Flag (CTF) competitions, where my main category is OSINT and RE.
 
-My name is Daniel, and I am a passionate about Software Development and Reverse Engineering. Currently, I'm focused on learning and mastering C++ and Python, with partiuclar interest in low-level systems and security. Occasionally I participate in Capture The Flag (CTF) competitions, where I focus on reverse engineering. 
+Looking ahead, I want to work on systems programming or security engineering, areas like OS internals, toolchains, and security tooling. I am currently seeking internships where I can improve my skills.
 
 <!--
 **dv0lk/dv0lk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
